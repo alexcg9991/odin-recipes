@@ -1,2 +1,3 @@
 # odin-recipes
-Practicando con Odin Project
+Practicing with the Odin Project
+Fundaments about html
